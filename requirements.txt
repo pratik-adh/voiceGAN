@@ -1,0 +1,6 @@
+pyaudio
+librosa
+torch
+torchvision
+tensorflow
+seaborn
